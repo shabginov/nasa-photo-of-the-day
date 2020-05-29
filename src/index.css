@@ -39,3 +39,11 @@ p {
   text-align: center;
   line-height: 2rem;
 }
+
+img {
+  object-fit: cover;
+  width: 1600px;
+  height: 1600px;
+  /* min-width: 400px;
+  min-height: 400px; */
+}
